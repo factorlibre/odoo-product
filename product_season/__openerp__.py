@@ -33,6 +33,7 @@
         'views/season.xml',
         'views/brand.xml',
         'views/product.xml',
+        'security/ir.model.access.csv',
     ],
     'installable': True,
 }
