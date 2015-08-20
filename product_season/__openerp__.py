@@ -34,6 +34,5 @@
         'views/brand.xml',
         'views/product.xml',
     ],
-    'data': [],
     'installable': True,
 }
